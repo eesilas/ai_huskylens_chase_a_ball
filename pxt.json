@@ -1,5 +1,6 @@
 {
     "name": "AI_Huskylens_Chase_a_ball",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
